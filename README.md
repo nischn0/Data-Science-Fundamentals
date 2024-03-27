@@ -17,5 +17,5 @@ After completion of this course the students:
 - can use HPC systems on Linux
 - can perform basic image processing with Python
 - can perform basic fitting and optimisation with Python
-— can perform basic inferential statistics with Python 
+- can perform basic inferential statistics with Python 
 -	have a brief overview of (modern) machine learning methods
